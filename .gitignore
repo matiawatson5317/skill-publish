@@ -1,0 +1,5 @@
+*.pyc
+build/
+.env
+*.log
+.DS_Store
